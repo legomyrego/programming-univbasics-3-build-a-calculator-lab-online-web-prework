@@ -4,27 +4,27 @@ return sum
 end
 
 def subtraction(num1, num2)
-num1 - num2 = difference
-puts sum
+difference = num1 - num2
+return sum
 end
 
 def division(num1, num2)
-num1/num2 = quotient
+quotient = num1/num2
 puts quotient
 end
 
 def multiplication(num1, num2)
-num1*num2 = product
+product = num1*num2
 puts product
 end
 
 def modulo(num1, num2)
-num1%num2 = modulo
+modulo = num1%num2
 return modulo
 
 end
 
 def square_root(num)
-num.sqrt = square
+square = num.sqrt
 return square
 end
